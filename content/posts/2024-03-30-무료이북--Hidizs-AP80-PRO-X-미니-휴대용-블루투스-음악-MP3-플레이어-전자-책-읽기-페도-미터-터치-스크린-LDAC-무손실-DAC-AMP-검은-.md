@@ -3,8 +3,9 @@ title: '무료이북  | Hidizs AP80 PRO X 미니 휴대용 블루투스 음악 M
 date: 2024-03-30
 slug: '무료이북--Hidizs-AP80-PRO-X-미니-휴대용-블루투스-음악-MP3-플레이어-전자-책-읽기-페도-미터-터치-스크린-LDAC-무손실-DAC-AMP-검은-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 무료이북]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '무료이북']
+---
 
 ## 무료 이북: 당신의 지식을 풍부하게 하세요
 

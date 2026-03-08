@@ -3,8 +3,9 @@ title: '지금 득템! 수페르가 2490 볼드 내추럴 다이 스니커즈, 7
 description: '내추럴한 매력과 볼드한 스타일의 만남- 수페르가 2490 BOLD CANVAS NATURAL DYE'
 date: 2026-02-25T09:43:00+09:00
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "swa", "수페르가", "2490볼드", "내추럴다이", "캔버스운동화", "친환경패션", "여름코디"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', 'swa', '수페르가', '2490볼드', '내추럴다이', '캔버스운동화', '친환경패션', '여름코디']
+---
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 

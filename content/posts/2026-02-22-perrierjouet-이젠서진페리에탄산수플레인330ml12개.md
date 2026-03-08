@@ -3,8 +3,9 @@ title: '0칼로리 청량감 끝판왕 페리에 탄산수 플레인 330ml 12개
 description: '나른한 오후, 기분까지 상쾌하게 깨워줄 특별한 청량함이 필요한가요'
 date: 2026-02-23T01:24:00+09:00
 author: 'Moon'
-categories: [shopping]
-tags: ["Top5", "shopping", "perrierjouet", "페리에", "탄산수추천", "페리에플레인", "제로칼로리", "홈카페", "하이볼탄산수"]
+categories: ['shopping']
+tags: ['Top5', 'shopping', 'perrierjouet', '페리에', '탄산수추천', '페리에플레인', '제로칼로리', '홈카페', '하이볼탄산수']
+---
 
 > 💦 이 포스팅은 파트너스 활동을 통해 일정액의 수수료를 제공받습니다. 💦
 
